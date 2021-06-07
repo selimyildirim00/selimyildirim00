@@ -31,3 +31,6 @@ You can always Support me by inviting one of my **own Discord Bots**
 **Website:**
 [hightline.cf](https://www.hightline.cf])
 
+<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=selimyildirim00&show_icons=true&hide_border=true&theme=tokyonight" />
+<img alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauldb09&show_icons=true&theme=tokyonight&layout=compact" />
+
