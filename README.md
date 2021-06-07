@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Tomato, mainly a Discord Bot Developer 👨‍💻 working peacefully since 2017 on Bots 🚀</div>  
+### <div align="center">I'm Selim, mainly a Discord Bot Developer 👨‍💻 Working peacefully in Bots since 2019 🚀</div>  
   
 
 - 🔭 I’m currently working on a music app.  
@@ -23,9 +23,7 @@
 
 You can always Support me by inviting one of my **own Discord Bots**
 
-[![2021's best Music Bot | Lava Music](https://cdn.discordapp.com/attachments/748533465972080670/817088638780440579/test3.png)](https://lava.milrato.eu)
-[![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://dc.musicium.eu)
-[![Milrato Multi Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://dc.milrato.eu)
+[![HIGHTLINE Bot](https://cdn.discordapp.com/attachments/752230209134002197/829006316156616734/ekip_logo.png)](https://discord.com/oauth2/authorize?client_id=761678375282409484&scope=bot&permissions=2147481599)
 
 ## Sponsors
 
@@ -45,7 +43,7 @@ Bittmax is our first and probably most important sponsor!
 [https://discord.gg/GgjJZCyYKD](https://discord.gg/GgjJZCyYKD)
 
 **Website:**
-[https://bittmax.de/](https://bittmax.de/])
+[hightline.cf](https://www.hightline.cf])
 
 GET **5%** OFF EVERYTHING FOR EVER!
 Code: **`x10`**
