@@ -23,7 +23,7 @@
 
 You can always Support me by inviting one of my **own Discord Bots**
 
-[![HIGHTLINE Bot](https://cdn.discordapp.com/attachments/752230209134002197/829006316156616734/ekip_logo.png)](https://discord.com/oauth2/authorize?client_id=761678375282409484&scope=bot&permissions=2147481599)
+[![HIGHTLINE Bot](https://cdn.discordapp.com/emojis/742664903441121341.png?v=1)](https://discord.com/oauth2/authorize?client_id=761678375282409484&scope=bot&permissions=2147481599)
 
 ## Sponsors
 
