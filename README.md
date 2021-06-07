@@ -19,7 +19,7 @@
 
 <br/>  
 
-# SUPPORT ME AND MILRATO DEVELOPMENT
+# SUPPORT ME AND HIGHTLINE DEVELOPMENT
 
 You can always Support me by inviting one of my **own Discord Bots**
 
@@ -31,23 +31,3 @@ You can always Support me by inviting one of my **own Discord Bots**
 **Website:**
 [hightline.cf](https://www.hightline.cf])
 
-GET **5%** OFF EVERYTHING FOR EVER!
-Code: **`x10`**
-
-### MC-Host24.de
-MC-Host24.de is selling the Best Digital Hosting Services ever!
-Like For games..
-
-**What they are offering:**
-> Quality LXC & KVM (Root) Server
-> WORLDS BEST Minecraft Hosting,
-> Cheap and fast Domains
-> WEBHOSTING
-> DISCORD, TEAMSPEAK, Setups / Music Bots
-> GAME SERVER, Rust, Gary's Mod, ..
-
-**Discord Server:**
-[https://discord.gg/KX7xw2ZcSz](https://discord.gg/KX7xw2ZcSz)
-
-**Website:**
-[mc-host24.de](https://mc-host24.de/user/affiliate/3121])
