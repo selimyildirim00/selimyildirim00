@@ -25,20 +25,6 @@ You can always Support me by inviting one of my **own Discord Bots**
 
 [![HIGHTLINE Bot](https://cdn.discordapp.com/emojis/742664903441121341.png?v=1)](https://discord.com/oauth2/authorize?client_id=761678375282409484&scope=bot&permissions=2147481599)
 
-## Sponsors
-
-### BEST HOSTING | Bittmax.de
-BITTMAX Quality is their solution.
-Bittmax is our first and probably most important sponsor!
-
-**What they are offering:**
-> Quality LXC & KVM (Root) Server
-> Minecraft Hosting, as well as BungeeCord Network Hosting support
-> Cheap and fast Domains
-> WEBHOSTING
-> DISCORD, TEAMSPEAK, Setups / Music Bots
-> GAME SERVER, Rust, Gary's Mod, ..
-
 **Discord Server:**
 [https://discord.gg/KX7xw2ZcSz](https://discord.gg/KX7xw2ZcSz)
 
