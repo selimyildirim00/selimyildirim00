@@ -40,7 +40,7 @@ Bittmax is our first and probably most important sponsor!
 > GAME SERVER, Rust, Gary's Mod, ..
 
 **Discord Server:**
-[https://discord.gg/GgjJZCyYKD](https://discord.gg/GgjJZCyYKD)
+[https://discord.gg/KX7xw2ZcSz](https://discord.gg/KX7xw2ZcSz)
 
 **Website:**
 [hightline.cf](https://www.hightline.cf])
@@ -61,7 +61,7 @@ Like For games..
 > GAME SERVER, Rust, Gary's Mod, ..
 
 **Discord Server:**
-[https://discord.com/invite/4dGuGXK4A4](https://discord.com/invite/4dGuGXK4A4)
+[https://discord.gg/KX7xw2ZcSz](https://discord.gg/KX7xw2ZcSz)
 
 **Website:**
 [mc-host24.de](https://mc-host24.de/user/affiliate/3121])
