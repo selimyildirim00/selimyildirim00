@@ -26,12 +26,6 @@ You can always Support me by inviting one of my **own Discord Bots**
 
 [![HIGHTLINE Bot](https://cdn.discordapp.com/emojis/742664903441121341.png?v=1)](https://discord.com/oauth2/authorize?client_id=761678375282409484&scope=bot&permissions=2147481599)
 
-**Discord Server:**
-[https://discord.gg/KX7xw2ZcSz](https://discord.gg/KX7xw2ZcSz)
-
-**Website:**
-[hightline.cf](https://www.hightline.cf])
-
 <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=selimyildirim00&show_icons=true&locale=en&theme=dark&layout=compact"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SpreeHertz&show_icons=true&locale=en&layout=compact&theme=dark" alt="spree" />
 
