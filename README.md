@@ -16,12 +16,31 @@
 
 - ❓  I am in love with coding Discord Bots, I also love helping!.
 
+---
+
+### Scoial Media:
+
+[website]: https://www.hightline.cf
+[twitter]: https://twitter.com/selimyildirim01
+[discord]: https://discord.gg/KX7xw2ZcSz
+[twitch]: https://www.twitch.tv/selimyildirim00
+[instagram]: https://www.instagram.com/_hightline/
+
+[<img align="left" alt="snazzah.com" width="32px" src="https://api.iconify.design/bi:globe.svg?color=%2300fef4&height=32" />][website]
+[<img align="left" alt="Twitter" width="32px" src="https://api.iconify.design/mdi:twitter.svg?color=%2300fef4&height=32" />][twitter]
+[<img align="left" alt="Discord" width="32px" src="https://api.iconify.design/mdi:discord.svg?color=%2300fef4&height=32" />][discord]
+[<img align="left" alt="Twitch" width="32px" src="https://api.iconify.design/mdi:twitch.svg?color=%2300fef4&height=32" />][twitch]
+[<img align="left" alt="Instagram" width="32px" src="https://api.iconify.design/mdi:instagram.svg?color=%2300fef4&height=32" />][instagram]
+
+<br /><br />
+---
+
 ![Discord](https://discord.c99.nl/widget/theme-2/746739526021677128.png)
 ![Discord Banner 2](https://discordapp.com/api/guilds/601836714834788375/widget.png?style=banner2)
 
 <br/>  
 
-# SUPPORT ME AND HIGHTLINE DEVELOPMENT
+# SUPPORT ME AND HIGHTLINE BOT
 
 You can always Support me by inviting one of my **own Discord Bots**
 
@@ -31,6 +50,8 @@ You can always Support me by inviting one of my **own Discord Bots**
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=SrGobi&count_private=true&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=000000&include_all_commits=true&hide_border=true&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrGobi&count_private=true&show_icons=true&layout=compact&title_color=246bced&text_color=ffffff&bg_color=000000&hide_border=true)
+
+---
 
 
 <h3 align="left">Languages and Tools:</h3>
