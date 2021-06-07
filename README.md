@@ -16,7 +16,7 @@
 
   
 <a href="https://discord.gg/KX7xw2ZcSz"><p><img align="center" src="https://discord.c99.nl/widget/theme-2/746739526021677128.png" alt="thatonecalculator"/></a>
-<a href="https://discord.gg/mG94DqX"><p><img align="center" src="https://discordapp.com/api/guilds/601836714834788375/embed.png?style=banner3" alt="discord"/></a>
+<a href="https://discord.gg/KX7xw2ZcSz"><p><img align="center" src="https://discordapp.com/api/guilds/601836714834788375/embed.png?style=banner3" alt="discord"/></a>
 
 <br/>  
 
