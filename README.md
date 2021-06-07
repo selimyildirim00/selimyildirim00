@@ -24,7 +24,7 @@
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png"/> <br><br>
 </div>
   
-<a href="https://discord.gg/mG94DqX"><p><img align="center" src="https://discord.c99.nl/widget/theme-2/746739526021677128.png" alt="thatonecalculator"/></a>
+<a href="https://discord.gg/KX7xw2ZcSz"><p><img align="center" src="https://discord.c99.nl/widget/theme-2/746739526021677128.png" alt="thatonecalculator"/></a>
 
 <br/>  
 
