@@ -1,9 +1,11 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/selimyildirim00/selim.github.io/blob/main/9bc27292880429.5e569ff84e4d0.gif" align="center" style="width: 100%" />
 </div>  
   
 
 ### <div align="center">I'm Selim, mainly a Discord Bot Developer 👨‍💻 Working peacefully in Bots since 2019 🚀</div>  
+
+---
   
 
 - 🔭 I’m currently working on a music app.  
@@ -14,9 +16,8 @@
 
 - ❓  I am in love with coding Discord Bots, I also love helping!.
 
-  
-<a href="https://discord.gg/KX7xw2ZcSz"><p><img align="center" src="https://discord.c99.nl/widget/theme-2/746739526021677128.png" alt="thatonecalculator"/></a>
-<a href="https://discord.gg/KX7xw2ZcSz"><p><img align="center" src="https://discordapp.com/api/guilds/601836714834788375/embed.png?style=banner3" alt="discord"/></a>
+![Discord](https://discord.c99.nl/widget/theme-2/746739526021677128.png)
+![Discord Banner 2](https://discordapp.com/api/guilds/601836714834788375/widget.png?style=banner2)
 
 <br/>  
 
@@ -26,8 +27,10 @@ You can always Support me by inviting one of my **own Discord Bots**
 
 [![HIGHTLINE Bot](https://cdn.discordapp.com/emojis/742664903441121341.png?v=1)](https://discord.com/oauth2/authorize?client_id=761678375282409484&scope=bot&permissions=2147481599)
 
-<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=selimyildirim00&show_icons=true&locale=en&theme=dark&layout=compact"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SpreeHertz&show_icons=true&locale=en&layout=compact&theme=dark" alt="spree" />
+---
+
+![Stats](https://github-readme-stats.vercel.app/api?username=SrGobi&count_private=true&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=000000&include_all_commits=true&hide_border=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrGobi&count_private=true&show_icons=true&layout=compact&title_color=246bced&text_color=ffffff&bg_color=000000&hide_border=true)
 
 
 <h3 align="left">Languages and Tools:</h3>
