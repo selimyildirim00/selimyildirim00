@@ -1,6 +1,6 @@
-<div align="center">
-<img src="https://github.com/selimyildirim00/selim.github.io/blob/main/9bc27292880429.5e569ff84e4d0.gif" align="center" style="width: 100%" />
-</div>  
+<a href="https://discord.com/users/603948445362946084">
+        <img src="https://lanyard.cnrad.dev/api/746739526021677128?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
+    </a>
   
 
 ### <div align="center">I'm Selim, mainly a Discord Bot Developer 👨‍💻 Working peacefully in Bots since 2019 🚀</div>  
